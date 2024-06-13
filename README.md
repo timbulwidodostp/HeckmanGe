@@ -1,6 +1,8 @@
 # HeckmanGe
 Generalized Heckman Model Use HeckmanGe With (In) R Software
 
+https://www.youtube.com/watch?v=8z4Zgp5LmUg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
